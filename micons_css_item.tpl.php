@@ -1,5 +1,4 @@
 <?php
-// $Id: menu_icons_css_item.tpl.php,v 1.3 2010/02/15 15:35:48 skilip Exp $
 
 /**
  * @file

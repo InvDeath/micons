@@ -1,11 +1,11 @@
-name = Menu Icons
+name = MIcons
 description = Associates icons with menu items
 dependencies[] = menu
 dependencies[] = image
 core = 7.x
 
-configure = admin/config/user-interface/menu_icons
+configure = admin/config/user-interface/micons
 
-files[] = menu_icons.install
-files[] = menu_icons.module
-files[] = menu_icons_css_item.tpl.php
+files[] = micons.install
+files[] = micons.module
+files[] = micons_css_item.tpl.php
